@@ -1,3 +1,5 @@
+> **Personal fork — not intended for public consumption.** This is a personal working copy of [karinushka/paneru](https://github.com/karinushka/paneru), kept for experiments. It is unmaintained and unsupported, may diverge from upstream or be rewritten at any time, and nothing here is released for others to use. Use the upstream project instead.
+
 <div align="center">
   <img src="./images/paneru.png" alt="Paneru" width="600"/>
 </div>
